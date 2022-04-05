@@ -1,8 +1,0 @@
-Source file1
-This is new line in the this file
-bla bla
-fjdoflskf;
-if True:
-	1++
-else:
-	pass
